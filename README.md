@@ -3,6 +3,7 @@ Change Icon Spacing on Desktop to Windows 10 like
 
 
 Easy way to Change the small icon Spacing from Windows 11 to Windows 10 style with this regchange here.
+After Reg install RESTART!
 
 Before
 
